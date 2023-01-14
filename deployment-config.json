@@ -1,0 +1,12 @@
+[
+    {
+        "name": "server-1",
+        "ip": "root",
+        "username": "root",
+        "password": "githubactions",
+        "port": "22",
+        "before-hooks": "",
+        "after-hooks": "php artisan migrate",
+        "path": "/var/www/html/"
+    }
+]
