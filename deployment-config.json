@@ -1,9 +1,9 @@
 [
     {
         "name": "ubuntu",
-        "ip": "ubuntu@35.171.3.29",
+        "ip": "35.171.3.29",
         "username": "ubuntu",
-        "password": "githubactions",
+        "password": "",
         "port": "22",
         "before-hooks": "",
         "after-hooks": "php artisan migrate",
