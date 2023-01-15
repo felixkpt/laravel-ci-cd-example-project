@@ -1,7 +1,7 @@
 [
     {
         "name": "ubuntu",
-        "ip": "ec2-35-171-3-29.compute-1.amazonaws.com",
+        "ip": "35.171.3.29",
         "username": "ubuntu",
         "password": "githubactions",
         "port": "22",
