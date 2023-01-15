@@ -3,7 +3,7 @@
         "name": "ubuntu",
         "ip": "35.171.3.29",
         "username": "ubuntu",
-        "password": "",
+        "password": "Kiptoo@2023",
         "port": "22",
         "before-hooks": "",
         "after-hooks": "php artisan migrate",
