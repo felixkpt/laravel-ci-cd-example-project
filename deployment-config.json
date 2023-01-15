@@ -1,7 +1,7 @@
 [
     {
         "name": "ubuntu",
-        "ip": "ubuntu@54.174.44.38",
+        "ip": "54.174.44.38",
         "username": "root",
         "password": "githubactions",
         "port": "22",
